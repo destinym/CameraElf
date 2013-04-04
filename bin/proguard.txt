@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.destinym1225.cameraelf.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.destinym1225.cameraelf.ShowPicture { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.destinym1225.cameraelf.userlogin { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class net.youmi.android.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class net.youmi.android.YoumiReceiver { <init>(...); }
+

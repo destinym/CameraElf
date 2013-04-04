@@ -1,0 +1,11 @@
+<resources>
+
+	<string name="app_name">连拍小精灵_有米</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="menu_settings">设置</string>
+	<string name="title_activity_main">连拍小精灵_有米</string>
+	<string name="caputer">拍摄</string>
+	<string name="stop">停止</string>
+	<string name="next">下一个</string>
+
+</resources>
